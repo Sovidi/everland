@@ -10,7 +10,7 @@
 
 
 # 이미지 출력 (레파지토리 경로)
-<img src="/img/sfedf.jpg">
+<img src="asset/image/main/main_lions.png">
 
 
 # 목록
