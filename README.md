@@ -1,6 +1,5 @@
 ### 소개
 
-# 이미지 출력 (레파지토리 경로)
 <img src="asset/image/main/main_lions.png">
 
 팀프로젝트로 맡은 리뉴얼 프로젝트입니다.
