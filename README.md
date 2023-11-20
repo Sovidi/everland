@@ -17,15 +17,14 @@
 
 임채민|김민경|김도예|김주선
 -|-|-|-
-팀장|개발팀장|개발보조|디자인담당
+팀장|개발팀장|디자인담당|개발보조
 
 ### 사용언어
 
-> HTML
->
-> ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
-> SCSS
-> 
+
+![](https://img.shields.io/badge/javascript-E34F26?style=flat&logo=javascript&logoColor=ffffff")
+![](https://img.shields.io/badge/sass-007396?style=flat&logo=sass&logoColor=ffffff")
+![](https://img.shields.io/badge/html5-007396?style=flat&logo=html5&logoColor=ffffff")
 
 > Javascript
 > 
