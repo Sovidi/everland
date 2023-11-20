@@ -12,13 +12,18 @@
 > 
 
 > Visual Studio Code
-> 
+
+### 팀원
+
+임채민|김민경|김도예|김주선
+-|-|-|-
+팀장|개발팀장|개발보조|디자인담당
 
 ### 사용언어
 
 > HTML
-> 
-
+>
+> ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white")
 > SCSS
 > 
 
