@@ -21,14 +21,11 @@
 
 ### 사용언어
 
-
 ![](https://img.shields.io/badge/javascript-E34F26.svg?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![](https://img.shields.io/badge/sass-007396.svg?style=for-the-badge&logo=sass&logoColor=ffffff)
-![](https://img.shields.io/badge/html5-#E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
-![](https://img.shields.io/badge/kakao-#FFCD00.svg?style=for-the-badge&logo=kakao&logoColor=ffffff)
-
-> Javascript
-> 
+![](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=ffffff)
+![](https://img.shields.io/badge/kakao-FFCD00.svg?style=for-the-badge&logo=kakao&logoColor=ffffff)
+![](https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=ffffff)
 
 ### 플러그인
 
